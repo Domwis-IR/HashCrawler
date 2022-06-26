@@ -1,6 +1,7 @@
 # Instagram HashCrawler
 2019-2 소프트웨어융합개론 프로젝트
 
+# HashCrawler 코드 설명
 ## 1.	사용자 입력
 1)	ID & Password 입력
 없이는 홈페이지에 접근 불가.
@@ -37,3 +38,11 @@
 
  ![image](https://user-images.githubusercontent.com/51522587/163665396-53f98503-d7f9-4af2-99bc-4938ebe30d5a.png)
 
+
+# 해시태그 분석
+## 주제
+지그재그 VS 에이블리
+    쇼핑몰 대표 앱 2개의 상위 3개 쇼핑몰 계정의 해시태그를 활용해 사용자 유입 분석
+    
+## 결과
+Instagram 계정 : shop_my_baby_f
